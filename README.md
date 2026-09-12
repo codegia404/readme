@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🏫 University of Caloocan City
-- ☕ currently learning Java.  kaya 8080 pa
+- ☕ currently learning Java. 8080 pa
 
 
 ## 🛠 Skills
