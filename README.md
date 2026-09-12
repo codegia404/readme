@@ -1,15 +1,15 @@
 
 # Hi there, I'am Gia! 👋 
- 📍 Based in Philippines 
+ 📍 Philippines.  
 
 
 ## 🚀 About Me
-- 🏫 University of Caloocan City
-- ☕ currently learning Java. 8080 pa
+- 🏫 Bachelor of Science in Information Technology
+- 👩‍💻 currently learning Java. 8080 pa
 
 
 ## 🛠 Skills
-Eat, sleep, repeat 🔁
+Eat, sleep, cry, repeat 🔁
 
 
 
