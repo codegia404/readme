@@ -7,9 +7,9 @@
 - 🏫 Bachelor of Science in Information Technology
 - 👩‍💻 currently learning Java. 8080 pa
 
-
 ## 🛠 Skills
 Eat, sleep, cry, repeat 🔁
+
 
 
 
